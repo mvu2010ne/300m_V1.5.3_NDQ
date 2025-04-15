@@ -1,8 +1,8 @@
-# Zalo ChatBot Project
-# Nodejs 20
+# Zalo ChatBot Project Share By NDQ
+# Using Nodejs 20
 This Zalo ChatBot project is developed using JavaScript with the **zlbotdqt** library. The creator of this project is **SBT**. You can find more information at [SBT](https://github.com/itisme).
 
-## Version Features ( v1.5.0 )
+## Version Features ( v1.5.3 )
 
 The following features are available in this version:
 
